@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DressQuiz</string>
+    <string name="Choose_quiz">Выберите\nвикторину</string>
+    <string name="Choose_quiz_2">Выберите викторину</string>
+    <string name="Choose_quiz_3">Следующий\nВопрос</string>
+    <string name="New_Quiz">Начать\nновый опрос</string>
+    <string name="rezult">Ваш результат:</string>
+    <string name="rezult_1">Правильных ответов: 0:</string>
+    <string name="rezult_2">Неправельных ответов: 0</string>
+
+    <string name="Choose_quiz_easy">Легкий</string>
+    <string name="Choose_quiz_normal">Средний</string>
+    <string name="Choose_quiz_hard">сложный</string>
+    <string name="Choose_quiz_hardcore">очень\nсложный</string>
+
+</resources>
